@@ -63,7 +63,6 @@ Our educational framework provides deep performance understanding:
 4. **Configure** tracking preferences
 5. **Begin** performance monitoring
 
-[![Download Analytics Suite](https://img.shields.io/badge/Download-Analytics_Suite-purple?style=for-the-badge&logo=chart)](https://yoursite.com/download/cs2-analytics-suite)
 
 ## 🔧 Core Analytical Capabilities
 
